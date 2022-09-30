@@ -3,7 +3,7 @@
     <div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
       <div class="col">
         <div class="card mb-4 rounded-3 shadow-sm">
-          <div class="card-header py-3 text-bg-primary">
+          <div class="card-header py-3 ">
             <h4 class="my-0 fw-normal">Seguro Auto</h4>
           </div>
           <div class="card-body">
